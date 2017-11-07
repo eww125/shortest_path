@@ -1,0 +1,207 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EisyMTk4IEdhcmRpbmVyIExuLCBMb3Vpc3ZpbGxlLCBLWSA0MDIwNSwgVVNB",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "partial_match" : true,
+         "place_id" : "EikxNzk5IEZyYXNlciBEciwgTG91aXN2aWxsZSwgS1kgNDAyMDUsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.2122645,
+               "lng" : -85.6729759
+            },
+            "southwest" : {
+               "lat" : 38.208507,
+               "lng" : -85.6872547
+            }
+         },
+         "copyrights" : "Map data ©2017 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1755
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 225
+               },
+               "end_address" : "1799 Fraser Dr, Louisville, KY 40205, USA",
+               "end_location" : {
+                  "lat" : 38.2093986,
+                  "lng" : -85.6872547
+               },
+               "start_address" : "2198 Gardiner Ln, Louisville, KY 40205, USA",
+               "start_location" : {
+                  "lat" : 38.2122645,
+                  "lng" : -85.6729759
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 747
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 38.208507,
+                        "lng" : -85.680058
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eGardiner Ln\u003c/b\u003e toward \u003cb\u003eWellbrooke Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sifhFb_|iOVl@~ApDfBjErBrEFJjBlE`BxDR`@bAdCl@nAl@xAN`@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.2122645,
+                        "lng" : -85.6729759
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 424
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.21175789999999,
+                        "lng" : -85.6825829
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFalmouth Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "erehFjk}iOm@\\e@Ta@T{@h@m@b@YTy@t@a@^]ZcBjA}AlAsA|@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.208507,
+                        "lng" : -85.680058
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 255
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.2099569,
+                        "lng" : -85.6842748
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDillon Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "offhFb{}iO`@bAN\\LVHHHHPLjAj@\\Pd@Xt@n@z@l@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.21175789999999,
+                        "lng" : -85.6825829
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "351 ft",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 38.210249,
+                        "lng" : -85.68544150000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHayfield Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "g{ehFte~iOK^GVERCT[fC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.2099569,
+                        "lng" : -85.6842748
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "200 ft",
+                        "value" : 61
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.2098865,
+                        "lng" : -85.6857392
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eTyler Ln\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a}ehF~l~iOE`@lAX"
+                     },
+                     "start_location" : {
+                        "lat" : 38.210249,
+                        "lng" : -85.68544150000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.2093986,
+                        "lng" : -85.6872547
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eWickland Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yzehFzn~iOSbB?J?D?B@F?D@F@DHTp@tABFDDDDDD@BB@BBB@FBF@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.2098865,
+                        "lng" : -85.6857392
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sifhFb_|iOvB~EzE~KhFtLbAdCl@nA|@zBsAr@}A~@gAx@{AtAaCfB}AlAsA|@p@`BV`@ZVhB|@d@Xt@n@z@l@K^Mj@_@|CE`@lAXSnB@VBLz@jBTX\\P"
+         },
+         "summary" : "Gardiner Ln",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
