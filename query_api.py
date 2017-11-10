@@ -22,7 +22,7 @@ url = 'https://maps.googleapis.com/maps/api/directions/json?origin='
 url += origin
 url += '&destination='
 url += destination
-url += '&key='
+url += '&mode=walkingavoid=highways&key='
 url += API_KEY
 print "url=" + url
 
